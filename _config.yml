@@ -1,0 +1,5 @@
+title: "Goooool.net — Jogo de Técnico de Futebol"
+url: "https://jogue.goooool.net"
+encoding: "utf-8"
+exclude:
+  - README.md

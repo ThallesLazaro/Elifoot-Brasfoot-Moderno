@@ -1,0 +1,8 @@
+/* TEAM */
+Creator and developer: Thalles Lázaro
+Site: https://jogue.goooool.net/
+Game: https://goooool.net/
+Language: pt-BR
+
+/* PROJECT */
+Goooool.net is an independent football manager career game.

@@ -2,7 +2,7 @@
   <img src="https://goooool.net/assets/icon-512.png" width="160" alt="Ícone do Goooool.net">
 </p>
 
-# ⚽ O Brasfoot e Elifoot da nova geração
+# ⚽ Goooool.net — O Brasfoot e Elifoot da nova geração
 
 **Seu clube. Suas decisões. Sua história.**
 
