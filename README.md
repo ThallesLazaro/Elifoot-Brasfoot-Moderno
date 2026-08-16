@@ -1,4 +1,4 @@
-# ⚽ Goooool.net — O Brasfoot e Elifoot da nova geração
+# ⚽ O Brasfoot e Elifoot da nova geração
 
 **Goooool.net** é um jogo moderno de técnico de futebol para quem gosta de clássicos como **Brasfoot** e **Elifoot**.
 
