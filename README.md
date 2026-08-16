@@ -2,7 +2,7 @@
   <img src="icon-512.png" width="160" alt="Ícone do Goooool.net">
 </p>
 
-# ⚽ O Brasfoot e Elifoot da nova geração
+# ⚽ Goooool.net — O Brasfoot e Elifoot da nova geração
 
 **Seu clube. Suas decisões. Sua história.**
 
@@ -15,6 +15,17 @@ Assuma um clube ou uma seleção, monte o elenco, escolha a escalação, defina 
 ### [Acesse Goooool.net](https://goooool.net/)
 
 O jogo funciona diretamente no navegador e também pode ser instalado como aplicativo PWA. A interface foi desenvolvida especialmente para celulares e permanece no formato mobile mesmo quando aberta em uma tela maior.
+
+
+
+## 🌐 Links oficiais
+
+- **Jogar:** https://goooool.net/
+- **Site informativo:** https://jogue.goooool.net/
+- **YouTube:** https://www.youtube.com/@Goooool-net
+- **Vídeo de apresentação:** https://www.youtube.com/shorts/CBqdmdU4TOI
+- **Instagram:** https://instagram.com/GOOOOOL.NET
+- **TikTok:** https://www.tiktok.com/@goooool.net
 
 ## 📸 Veja o Goooool.net por dentro
 
@@ -268,7 +279,7 @@ O editor permite enviar sugestões específicas sem substituir uma entidade inte
 
 ### [Acessar o editor comunitário](https://goooool.net/editor)
 
-## 🔗 Links oficiais
+## 🔗 Recursos públicos
 
 - [Jogar Goooool](https://goooool.net/)
 - [Guia completo de como jogar](https://goooool.net/#como-jogar)
