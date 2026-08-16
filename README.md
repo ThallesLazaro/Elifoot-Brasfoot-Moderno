@@ -2,7 +2,7 @@
   <img src="https://goooool.net/assets/icon-512.png" width="160" alt="Ícone do Goooool.net">
 </p>
 
-# ⚽ O Brasfoot e Elifoot da nova geração
+# ⚽ Goooool.net — O Brasfoot e Elifoot da nova geração
 
 **Seu clube. Suas decisões. Sua história.**
 
@@ -15,6 +15,70 @@ Assuma um clube ou uma seleção, monte o elenco, escolha a escalação, defina 
 ### [Acesse Goooool.net](https://goooool.net/)
 
 O jogo funciona diretamente no navegador e também pode ser instalado como aplicativo PWA. A interface foi desenvolvida especialmente para celulares e permanece no formato mobile mesmo quando aberta em uma tela maior.
+
+## 📸 Veja o Goooool.net por dentro
+
+Conheça algumas das telas e possibilidades disponíveis no jogo. Clique em uma imagem para visualizá-la no tamanho original.
+
+<p align="center">
+  <a href="Screenshot_2026-08-15-14-38-09-763_com.android.chrome.jpg"><img src="Screenshot_2026-08-15-14-38-09-763_com.android.chrome.jpg" width="47%" alt="Tela do Goooool.net 1"></a>
+  <a href="Screenshot_2026-08-16-09-47-37-123_com.android.chrome.jpg"><img src="Screenshot_2026-08-16-09-47-37-123_com.android.chrome.jpg" width="47%" alt="Tela do Goooool.net 2"></a>
+</p>
+
+<p align="center">
+  <a href="Screenshot_2026-08-16-09-47-42-606_com.android.chrome.jpg"><img src="Screenshot_2026-08-16-09-47-42-606_com.android.chrome.jpg" width="47%" alt="Tela do Goooool.net 3"></a>
+  <a href="Screenshot_2026-08-16-09-47-59-421_com.android.chrome.jpg"><img src="Screenshot_2026-08-16-09-47-59-421_com.android.chrome.jpg" width="47%" alt="Tela do Goooool.net 4"></a>
+</p>
+
+<p align="center">
+  <a href="Screenshot_2026-08-16-09-48-10-276_com.android.chrome.jpg"><img src="Screenshot_2026-08-16-09-48-10-276_com.android.chrome.jpg" width="47%" alt="Tela do Goooool.net 5"></a>
+  <a href="Screenshot_2026-08-16-09-48-13-705_com.android.chrome.jpg"><img src="Screenshot_2026-08-16-09-48-13-705_com.android.chrome.jpg" width="47%" alt="Tela do Goooool.net 6"></a>
+</p>
+
+<p align="center">
+  <a href="Screenshot_2026-08-16-09-48-26-853_com.android.chrome.jpg"><img src="Screenshot_2026-08-16-09-48-26-853_com.android.chrome.jpg" width="47%" alt="Tela do Goooool.net 7"></a>
+  <a href="Screenshot_2026-08-16-09-48-35-922_com.android.chrome.jpg"><img src="Screenshot_2026-08-16-09-48-35-922_com.android.chrome.jpg" width="47%" alt="Tela do Goooool.net 8"></a>
+</p>
+
+<p align="center">
+  <a href="Screenshot_2026-08-16-09-48-45-951_com.android.chrome.jpg"><img src="Screenshot_2026-08-16-09-48-45-951_com.android.chrome.jpg" width="47%" alt="Tela do Goooool.net 9"></a>
+  <a href="Screenshot_2026-08-16-09-48-51-054_com.android.chrome.jpg"><img src="Screenshot_2026-08-16-09-48-51-054_com.android.chrome.jpg" width="47%" alt="Tela do Goooool.net 10"></a>
+</p>
+
+<p align="center">
+  <a href="Screenshot_2026-08-16-09-49-00-538_com.android.chrome.jpg"><img src="Screenshot_2026-08-16-09-49-00-538_com.android.chrome.jpg" width="47%" alt="Tela do Goooool.net 11"></a>
+  <a href="Screenshot_2026-08-16-09-49-21-300_com.android.chrome.jpg"><img src="Screenshot_2026-08-16-09-49-21-300_com.android.chrome.jpg" width="47%" alt="Tela do Goooool.net 12"></a>
+</p>
+
+<p align="center">
+  <a href="Screenshot_2026-08-16-09-49-55-344_com.android.chrome.jpg"><img src="Screenshot_2026-08-16-09-49-55-344_com.android.chrome.jpg" width="47%" alt="Tela do Goooool.net 13"></a>
+  <a href="Screenshot_2026-08-16-09-50-03-152_com.android.chrome.jpg"><img src="Screenshot_2026-08-16-09-50-03-152_com.android.chrome.jpg" width="47%" alt="Tela do Goooool.net 14"></a>
+</p>
+
+<p align="center">
+  <a href="Screenshot_2026-08-16-09-50-10-699_com.android.chrome.jpg"><img src="Screenshot_2026-08-16-09-50-10-699_com.android.chrome.jpg" width="47%" alt="Tela do Goooool.net 15"></a>
+  <a href="Screenshot_2026-08-16-09-50-13-007_com.android.chrome.jpg"><img src="Screenshot_2026-08-16-09-50-13-007_com.android.chrome.jpg" width="47%" alt="Tela do Goooool.net 16"></a>
+</p>
+
+<p align="center">
+  <a href="Screenshot_2026-08-16-09-50-18-653_com.android.chrome.jpg"><img src="Screenshot_2026-08-16-09-50-18-653_com.android.chrome.jpg" width="47%" alt="Tela do Goooool.net 17"></a>
+  <a href="Screenshot_2026-08-16-09-50-21-989_com.android.chrome.jpg"><img src="Screenshot_2026-08-16-09-50-21-989_com.android.chrome.jpg" width="47%" alt="Tela do Goooool.net 18"></a>
+</p>
+
+<p align="center">
+  <a href="Screenshot_2026-08-16-09-50-26-290_com.android.chrome.jpg"><img src="Screenshot_2026-08-16-09-50-26-290_com.android.chrome.jpg" width="47%" alt="Tela do Goooool.net 19"></a>
+  <a href="Screenshot_2026-08-16-09-50-29-819_com.android.chrome.jpg"><img src="Screenshot_2026-08-16-09-50-29-819_com.android.chrome.jpg" width="47%" alt="Tela do Goooool.net 20"></a>
+</p>
+
+<p align="center">
+  <a href="Screenshot_2026-08-16-09-50-39-955_com.android.chrome.jpg"><img src="Screenshot_2026-08-16-09-50-39-955_com.android.chrome.jpg" width="47%" alt="Tela do Goooool.net 21"></a>
+  <a href="Screenshot_2026-08-16-09-53-03-333_com.android.chrome.jpg"><img src="Screenshot_2026-08-16-09-53-03-333_com.android.chrome.jpg" width="47%" alt="Tela do Goooool.net 22"></a>
+</p>
+
+<p align="center">
+  <a href="Screenshot_2026-08-16-09-54-09-733_com.android.chrome.jpg"><img src="Screenshot_2026-08-16-09-54-09-733_com.android.chrome.jpg" width="47%" alt="Tela do Goooool.net 23"></a>
+  <a href="Screenshot_2026-08-16-09-54-15-754_com.android.chrome.jpg"><img src="Screenshot_2026-08-16-09-54-15-754_com.android.chrome.jpg" width="47%" alt="Tela do Goooool.net 24"></a>
+</p>
 
 ## ✅ Estado atual do projeto
 
